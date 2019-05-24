@@ -18,7 +18,7 @@
 7.**Name,meaning and translation** for all names available.</br>
 8.**Easy** and **efficient** methods to fetch data from **both** websites.</br>
 
-## Download PyAdhaanApp executable from **PIP**:</br>
+## Download MuslimNamesGenerator executable from **PIP**:</br>
 Command : `pip install MuslimNamesGenerator`</br>
 [MuslimNamesGenerator project on PIP](https://pypi.org/project/MuslimNamesGenerator/)
 
